@@ -20,8 +20,8 @@
 
 ## Demo Image
 
-![Thread Clone Screenshot](./DemoImages/1.jpg)
-![Thread Clone Screenshot](./DemoImages/2.jpg)
+![Thread Clone Screenshot](./DemoImages/1.png)
+![Thread Clone Screenshot](./DemoImages/2.png)
 ![Thread Clone Screenshot](./DemoImages/3.jpg)
 ![Thread Clone Screenshot](./DemoImages/4.jpg)
 ![Thread Clone Screenshot](./DemoImages/5.jpg)
@@ -33,10 +33,26 @@
 ![Thread Clone Screenshot](./DemoImages/11.jpg)
 ![Thread Clone Screenshot](./DemoImages/12.jpg)
 ![Thread Clone Screenshot](./DemoImages/13.jpg)
-![Thread Clone Screenshot](./DemoImages/14.jpg)
-![Thread Clone Screenshot](./DemoImages/15.jpg)
+![Thread Clone Screenshot](./DemoImages/14.png)
+![Thread Clone Screenshot](./DemoImages/15.png)
 
-
+<p align="center">
+  <img src="./DemoImages/1.png" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/2.png" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/3.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/4.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/5.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/6.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/7.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/8.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/9.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/10.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/11.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/12.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/13.jpg" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/14.png" alt="Thread Clone Screenshot" />
+  <img src="./DemoImages/15.png" alt="Thread Clone Screenshot" />
+</p>
 ## Installation
 
 We are in the process of completing the project 🔨 =-=
