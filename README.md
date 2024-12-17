@@ -38,12 +38,6 @@
 
 ![Thread Clone Screenshot](./DemoImages/10.jpg)
 
-![Thread Clone Screenshot](./DemoImages/11.jpg)
-
-![Thread Clone Screenshot](./DemoImages/12.jpg)
-
-![Thread Clone Screenshot](./DemoImages/13.jpg)
-
 ![Thread Clone Screenshot](./DemoImages/14.png)
 
 ![Thread Clone Screenshot](./DemoImages/15.png)
